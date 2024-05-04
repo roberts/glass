@@ -1,6 +1,14 @@
 /**
  *
  *
+   old kinderhook $GLASS blowers club
+   $GLASS on base chain
+   https://oldkinderhookglass.com
+   https://x.com/kinderhookglass
+   https://t.me/kinderhookglass
+   https://youtu.be/n_grIGR964I
+
+
    Contract features:
    100,000,000 tokens
    3% buy tax in ETH sent to community, marketing & developer
